@@ -3,7 +3,7 @@
 **Full-stack developer in Ahmedabad, India.** I build ERP, CRM, marketplace and SaaS products for Indian businesses with the MERN stack, Next.js and NestJS.
 
 - **Tech Head at [CHEMAZON](https://www.chemazon.store)**, a verified B2B chemicals marketplace
-- **Team Lead at Kira Intrilogy**, where I architect and lead [OEMup](https://oemup.app), a cloud ERP for manufacturers
+- **Technical Lead at Kira Intrilogy**, where I architect and lead [OEMup](https://oemup.app), a cloud ERP for manufacturers
 - **Open to freelance projects**: custom ERP/CRM, marketplaces, SaaS MVPs, WhatsApp and payment integrations
 
 <!-- TODO: add your portfolio link here once it is deployed, e.g. **Portfolio:** https://your-site.vercel.app -->
